@@ -1,0 +1,9 @@
+.text-box{
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+div+p{
+    color:red;
+}
